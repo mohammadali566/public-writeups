@@ -55,13 +55,13 @@
 <h2>
   
   
-   Username: concierge 
+   Username : concierge 
 </h2>
 
 <h2>
   
   
-   Password: StayNoticed2024! 
+   Password : StayNoticed2024! 
 </h2>
 
 <p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8hloa8tx9n1yj1xq6oh1.png"><img alt=" " height="321" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8hloa8tx9n1yj1xq6oh1.png" width="800" /></a></p>
